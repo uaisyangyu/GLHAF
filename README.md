@@ -8,11 +8,11 @@
 - CUDA 11.7
 
 ### Installation
-- conda create -n G2L python==3.9.13
+- conda create -n XXX(your environment) python==3.9.13
 ```
-- Activate the built G2L environment.
+- Activate the built XXX environment.
 ```
-- conda activate G2L
+- conda activate xxx
 ```
 - Install Pytorch with CUDA
 ```
